@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wagroupzone.github.io/group-finder-notes/sitemap.xml
+
